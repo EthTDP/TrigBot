@@ -1,0 +1,1 @@
+worker:java -jar out/artifacts/JavaDiscordBot_jar/JavaDiscordBot.jar
