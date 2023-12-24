@@ -1,1 +1,1 @@
-worker:java -jar out/artifacts/JavaDiscordBot_jar/JavaDiscordBot.jar
+web:java -jar out/artifacts/JavaDiscordBot_jar/JavaDiscordBot.jar
